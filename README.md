@@ -10,28 +10,28 @@
 
 <br/>
 
-## 👨‍💻 Tentang Saya
-
-* 🔭 **Fokus:** Mengembangkan aplikasi mobile modern berbasis **Flutter**, backend & otomasi data dengan **Python**, serta platform web terintegrasi.
-* 💡 **Filosofi:** Menulis kode yang bersih (*Clean Code*), modular, efisien, dan berorientasi pada pemecahan masalah nyata.
-* ⚡ **Aktivitas:** Aktif mengerjakan simulasi teknis industri dan riset rekayasa perangkat lunak.
-* 🛠️ **Pendekatan:** Menggabungkan arsitektur software yang terstruktur dengan eksplorasi AI agentic modern.
-
----
-
 ## 📈 Persentase Bahasa yang Sering Digunakan
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Persentase Bahasa Abaimann di GitHub" />
+  <table border="0">
+    <tr valign="top">
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Daftar Persentase Bahasa Abaimann" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&layout=donut&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Chart Donut Bahasa Abaimann" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
 ## 📊 Statistik & Aktivitas GitHub
 
 <div align="center">
   <table border="0">
-    <tr>
+    <tr valign="top">
       <td>
         <img src="https://github-readme-stats-fast.vercel.app/api?username=Abaimann&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Statistik GitHub Abaimann" />
       </td>
