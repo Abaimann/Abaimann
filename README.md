@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:7f1d1d,100:dc2626&height=250&section=header&text=A%20B%20A%20I%20M%20A%20N%20N&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20%26%20Backend%20Developer&descSize=18&descAlignY=58&descColor=fecaca&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:050505&height=230&section=header&text=Abaimann&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%" alt="Header Abaimann"/>
 </div>
 
 <div align="center">
@@ -19,28 +19,11 @@
 
 ---
 
-## 🚀 Keahlian & Teknologi (Tech Stack)
+## 📈 Persentase Bahasa yang Sering Digunakan
 
-### 💻 Bahasa Pemrograman & Framework
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,php,laravel,js,ts,tailwind,bootstrap,html,css" />
-  </a>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
-  </a>
-</p>
-
-### 🛠️ Alat & Lingkungan Pengembangan
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,powershell,linux,androidstudio" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Persentase Bahasa Abaimann di GitHub" />
+</div>
 
 ---
 
@@ -57,10 +40,6 @@
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abaimann&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Bahasa yang Sering Digunakan" />
 </div>
 
 <br/>
@@ -68,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:050505&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:dc2626&height=120&section=footer" width="100%" alt="Footer Wave"/>
 </div>
