@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Halo,%20Saya%20Abaimann%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:7f1d1d,100:dc2626&height=250&section=header&text=A%20B%20A%20I%20M%20A%20N%20N&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20%26%20Backend%20Developer&descSize=18&descAlignY=58&descColor=fecaca&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Mobile+Developer;Flutter+%7C+Python+%7C+Full-Stack+Web;Building+Scalable+%26+Impactful+Systems;Always+Learning+%26+Exploring+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Mobile+Developer;Flutter+%7C+Python+%7C+Full-Stack+Web;Building+Scalable+%26+Impactful+Systems;Always+Learning+%26+Exploring+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,17 +50,17 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Abaimann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Statistik GitHub Abaimann" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Abaimann&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Statistik GitHub Abaimann" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaimann&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Abaimann" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaimann&theme=radical&hide_border=true&background=0a0a0a" alt="GitHub Streak Abaimann" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaimann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Bahasa yang Sering Digunakan" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abaimann&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Bahasa yang Sering Digunakan" />
 </div>
 
 <br/>
@@ -68,5 +68,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:050505&height=120&section=footer" width="100%"/>
 </div>
