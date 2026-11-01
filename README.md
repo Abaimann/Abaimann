@@ -10,16 +10,16 @@
 
 <br/>
 
-## 📈 Persentase Bahasa yang Sering Digunakan
+## 💻 Bahasa & Framework yang Digunakan
 
 <div align="center">
   <table border="0">
     <tr valign="top">
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Daftar Persentase Bahasa Abaimann" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" width="420" alt="Persentase Bahasa Abaimann" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&layout=donut&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Chart Donut Bahasa Abaimann" />
+        <img src="https://raw.githubusercontent.com/Abaimann/Abaimann/main/frameworks.svg" width="420" alt="Frameworks dan Stack Abaimann" />
       </td>
     </tr>
   </table>
