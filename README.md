@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:050505&height=230&section=header&text=Abaimann&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%" alt="Header Abaimann"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:050505&height=230&section=header&text=%E2%9A%A1%20ABAIMANN%20%E2%9A%A1&fontSize=54&fontColor=ffffff&fontAlignY=38&fontFamily=Impact" width="100%" alt="Header Abaimann"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Mobile+Developer;Flutter+%7C+Python+%7C+Full-Stack+Web;Building+Scalable+%26+Impactful+Systems;Always+Learning+%26+Exploring+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=620&lines=%3E+Rogue+Software+Engineer+%26+Mobile+Architect;%3E+Flutter+%7C+Python+%7C+Full-Stack+Hacker;%3E+Architecting+Chaos+Into+Scalable+Code;%3E+Rules+Are+Meant+To+Be+Refactored" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-## 💻 Bahasa & Framework yang Digunakan
+## ⚡ TECH MATRIX &amp; LANG BREAKDOWN
 
 <div align="center">
   <table border="0">
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 📊 Statistik & Aktivitas GitHub
+## 💀 GITHUB TELEMETRY &amp; STREAK
 
 <div align="center">
   <table border="0">

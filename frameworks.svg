@@ -1,56 +1,56 @@
 <svg width="420" height="285" viewBox="0 0 420 285" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e; }
-    .item-name { font: 500 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8fafc; }
-    .item-cat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
-    .bar-bg { fill: #1e293b; rx: 4px; }
-    .bar-fill { rx: 4px; }
+    .header { font: 700 16px 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; fill: #ef4444; letter-spacing: 1.5px; }
+    .item-name { font: 700 13px 'Fira Code', 'JetBrains Mono', monospace; fill: #f8fafc; }
+    .item-cat { font: 500 11px 'Fira Code', monospace; fill: #ef4444; }
+    .bar-bg { fill: #18181b; rx: 3px; }
+    .bar-fill { rx: 3px; }
   </style>
-  <rect x="0.5" y="0.5" width="419" height="284" rx="4.5" fill="#0a0a0a" stroke="#18181b"/>
-  <text x="25" y="38" class="header">Frameworks &amp; Stacks</text>
+  <rect x="0.5" y="0.5" width="419" height="284" rx="6" fill="#09090b" stroke="#7f1d1d" stroke-width="1.2"/>
+  <text x="25" y="36" class="header">// FRAMEWORKS &amp; STACKS</text>
   
   <!-- Flutter -->
   <g transform="translate(25, 52)">
-    <circle cx="5" cy="8" r="5" fill="#02569B"/>
-    <text x="18" y="12" class="item-name">Flutter</text>
-    <text x="370" y="12" text-anchor="end" class="item-cat">Mobile (Dart)</text>
+    <circle cx="5" cy="8" r="4" fill="#02569B"/>
+    <text x="18" y="12" class="item-name">[FLUTTER]</text>
+    <text x="370" y="12" text-anchor="end" class="item-cat">MOBILE ARCHITECTURE</text>
     <rect x="0" y="18" width="370" height="6" class="bar-bg"/>
-    <rect x="0" y="18" width="340" height="6" fill="#02569B" class="bar-fill"/>
+    <rect x="0" y="18" width="340" height="6" fill="#0284c7" class="bar-fill"/>
   </g>
 
   <!-- Laravel -->
   <g transform="translate(25, 96)">
-    <circle cx="5" cy="8" r="5" fill="#FF2D20"/>
-    <text x="18" y="12" class="item-name">Laravel</text>
-    <text x="370" y="12" text-anchor="end" class="item-cat">Fullstack &amp; API (PHP)</text>
+    <circle cx="5" cy="8" r="4" fill="#ef4444"/>
+    <text x="18" y="12" class="item-name">[LARAVEL]</text>
+    <text x="370" y="12" text-anchor="end" class="item-cat">BACKEND &amp; API CORE</text>
     <rect x="0" y="18" width="370" height="6" class="bar-bg"/>
-    <rect x="0" y="18" width="315" height="6" fill="#FF2D20" class="bar-fill"/>
+    <rect x="0" y="18" width="315" height="6" fill="#dc2626" class="bar-fill"/>
   </g>
 
   <!-- Tailwind CSS -->
   <g transform="translate(25, 140)">
-    <circle cx="5" cy="8" r="5" fill="#06B6D4"/>
-    <text x="18" y="12" class="item-name">Tailwind CSS</text>
-    <text x="370" y="12" text-anchor="end" class="item-cat">Modern UI Styling</text>
+    <circle cx="5" cy="8" r="4" fill="#06b6d4"/>
+    <text x="18" y="12" class="item-name">[TAILWIND CSS]</text>
+    <text x="370" y="12" text-anchor="end" class="item-cat">RAPID UI WEAPON</text>
     <rect x="0" y="18" width="370" height="6" class="bar-bg"/>
-    <rect x="0" y="18" width="280" height="6" fill="#06B6D4" class="bar-fill"/>
+    <rect x="0" y="18" width="280" height="6" fill="#06b6d4" class="bar-fill"/>
   </g>
 
   <!-- Bootstrap -->
   <g transform="translate(25, 184)">
-    <circle cx="5" cy="8" r="5" fill="#7952B3"/>
-    <text x="18" y="12" class="item-name">Bootstrap</text>
-    <text x="370" y="12" text-anchor="end" class="item-cat">Responsive Components</text>
+    <circle cx="5" cy="8" r="4" fill="#a855f7"/>
+    <text x="18" y="12" class="item-name">[BOOTSTRAP]</text>
+    <text x="370" y="12" text-anchor="end" class="item-cat">GRID &amp; LAYOUT SYSTEM</text>
     <rect x="0" y="18" width="370" height="6" class="bar-bg"/>
-    <rect x="0" y="18" width="240" height="6" fill="#7952B3" class="bar-fill"/>
+    <rect x="0" y="18" width="240" height="6" fill="#9333ea" class="bar-fill"/>
   </g>
 
   <!-- Node.js & Vite -->
   <g transform="translate(25, 228)">
-    <circle cx="5" cy="8" r="5" fill="#22C55E"/>
-    <text x="18" y="12" class="item-name">Node.js &amp; Vite</text>
-    <text x="370" y="12" text-anchor="end" class="item-cat">Runtime &amp; Build Tool</text>
+    <circle cx="5" cy="8" r="4" fill="#22c55e"/>
+    <text x="18" y="12" class="item-name">[NODE.JS &amp; VITE]</text>
+    <text x="370" y="12" text-anchor="end" class="item-cat">FAST RUNTIME &amp; BUILD</text>
     <rect x="0" y="18" width="370" height="6" class="bar-bg"/>
-    <rect x="0" y="18" width="210" height="6" fill="#22C55E" class="bar-fill"/>
+    <rect x="0" y="18" width="210" height="6" fill="#16a34a" class="bar-fill"/>
   </g>
 </svg>
