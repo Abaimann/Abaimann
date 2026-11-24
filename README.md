@@ -22,6 +22,14 @@
 
 <br/>
 
+## 🔥 GITHUB STREAK
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaimann&theme=radical&hide_border=true&background=0a0a0a" alt="GitHub Streak Abaimann" />
+</div>
+
+<br/>
+
 ## 🔗 CONNECT &amp; LINKS
 
 <div align="center">
