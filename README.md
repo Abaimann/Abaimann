@@ -22,20 +22,31 @@
 
 <br/>
 
-## 🔗 CONNECT WITH ME
+## 🔗 CONNECT &amp; LINKS
 
 <div align="center">
-  <a href="https://www.instagram.com/abaimannn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40abaimannn-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ef4444&labelColor=dc2626" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdurrahman-aiman-031750357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdurrahman%20Aiman-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=dc2626" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:kacangdong2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kacangdong2%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=dc2626" alt="Email" />
-  </a>
+  <p align="center">
+    <a href="https://www.instagram.com/abaimannn/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Instagram-%40abaimannn-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=dc2626" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/abdurrahman-aiman-031750357/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Abdurrahman%20Aiman-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=dc2626" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:kacangdong2@gmail.com">
+      <img src="https://custom-icon-badges.demolab.com/badge/Email-kacangdong2%40gmail.com-0a0a0a?style=for-the-badge&logo=mail&logoColor=white&labelColor=dc2626" alt="Email" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://abaimann.github.io/Webora-CompanyProfile/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Webora-Studio%20Web-0a0a0a?style=for-the-badge&logo=globe&logoColor=white&labelColor=dc2626" alt="Webora" />
+    </a>
+    &nbsp;
+    <a href="https://abaimann.github.io/Repository-Gw/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Portofolio-Abdurrahman-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=dc2626" alt="Portofolio" />
+    </a>
+  </p>
 </div>
 
 <br/>
