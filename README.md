@@ -10,22 +10,9 @@
 
 <br/>
 
-## ⚡ TECH MATRIX &amp; LANG BREAKDOWN
+## ⚡ TECH STACK
 
 <div align="center">
-  <table border="0">
-    <tr valign="top">
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abaimann&card_width=420&theme=radical&hide_border=true&bg_color=0a0a0a" width="420" alt="Persentase Bahasa Abaimann" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/Abaimann/Abaimann/main/frameworks.svg" width="420" alt="Frameworks dan Stack Abaimann" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=flutter,laravel,tailwind,bootstrap,nodejs,vite,mysql,sqlite,postgres,firebase" alt="Tech Stack and Databases" />
@@ -35,19 +22,20 @@
 
 <br/>
 
-## 💀 GITHUB TELEMETRY &amp; STREAK
+## 🔗 CONNECT WITH ME
 
 <div align="center">
-  <table border="0">
-    <tr valign="top">
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Abaimann&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Statistik GitHub Abaimann" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaimann&theme=radical&hide_border=true&background=0a0a0a" alt="GitHub Streak Abaimann" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.instagram.com/abaimannn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40abaimannn-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ef4444&labelColor=dc2626" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdurrahman-aiman-031750357/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdurrahman%20Aiman-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=dc2626" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kacangdong2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kacangdong2%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=dc2626" alt="Email" />
+  </a>
 </div>
 
 <br/>
